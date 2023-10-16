@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cyndzx02
-- 👀 I’m interested in mechatrony
+- 👀 I’m interested in mechatronics 
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me mail me
