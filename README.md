@@ -52,4 +52,5 @@
 
    
    ### Langs
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyndzx02&layout=pie&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyndzx02&size_weight=0.5&count_weight=0.5)
