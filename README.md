@@ -12,17 +12,29 @@
 <div align="center">
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2QzbjV1c2gzd3AwcDFxb2d1NTM1ZDZuMmJ6aTdncHBwZGd6eDY0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"/>
 </div>
-  
 </div>
+ -- 
+ ### :woman_technologist: About Me :
 
+- :👋: Hi, I’m Cynthia Zinsou
+- :👀: I’m interested in mechatronics(Robotics)
+- :🌱: I’m currently learning computer science
+- :😉:   I spend time making researches on some topics i found curious
+- :🎧:   I listen to music a lot
+- :✅:   Goofy
+- :😂:   Love playing cooking fever
+- :🎚️:  And so much more ...     
+- :💞️: I’m looking forward to collaborate on new projects
 
-- 👋 Hi, I’m @cyndzx02
-- 👀 I’m interested in mechatronics 
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me mail me
+---
 
-<!---
-cyndzx02/cyndzx02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### :hammer_and_wrench: Languages and Tools I've used:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg" title="C" **alt="Git" width="40" height="40"/>
+</div>
