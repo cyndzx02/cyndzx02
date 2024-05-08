@@ -45,7 +45,6 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/arduino/arduino-original.svg" title="arduino" **alt="arduino" width="80" height="80"/>
 </div>
 <div>
-   ---
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cyndzx02&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -55,5 +54,5 @@
    ---
    
    ### :Langs
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyndzx02&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
