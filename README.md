@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2QzbjV1c2gzd3AwcDFxb2d1NTM1ZDZuMmJ6aTdncHBwZGd6eDY0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"/>
 </div>
 
-https://komarev.com/ghpvc/?username=cyndzx02
+<img src="https://komarev.com/ghpvc/?username=cyndzx02&style=flat-square&color=blue" alt=""/>
 
 - 👋 Hi, I’m @cyndzx02
 - 👀 I’m interested in mechatronics 
