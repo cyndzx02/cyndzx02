@@ -44,7 +44,6 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/haskell/haskell-original.svg" title="haskell" **alt="haskell" width="80" height="80"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/arduino/arduino-original.svg" title="arduino" **alt="arduino" width="80" height="80"/>
 </div>
-
 <div>
    ---
 
@@ -53,5 +52,8 @@
 </div>
 
 <div>
+   ---
+   
+   ### :Langs
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
